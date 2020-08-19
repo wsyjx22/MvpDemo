@@ -1,0 +1,38 @@
+.DS_Store
+
+# Gradle files
+.gradle/
+
+gradlew.bat
+gradle.xml
+
+# Build files
+build/
+app/build/
+
+# IDEA
+*.iml
+.idea/*
+.idea/.name
+.idea/encodings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/scopes/scope_settings.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/libraries
+misc.xml
+workspace.xml
+.externalNativeBuild
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio captures folder
+captures/
+!/jenkinsRes/local.properties
+../jenkinspackage/
+../.DS_Store
+*.aar
